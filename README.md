@@ -4,8 +4,9 @@ This is the GitHub playground. You can practice contributing to open-source proj
 
 ## How to contribute to this repository?
 
+> 📌 Follow [this guide]() to make a contribution to this repository.
+
 - Fork this repository.
-- Create a new branch.
 - Add your name and/or your profile link in the file [Players.md](./Players.md) like this:
 
 ```
@@ -13,4 +14,4 @@ This is the GitHub playground. You can practice contributing to open-source proj
 ```
 
 - Make a pull request.
-- You can `⭐️Start` this repository if you want.
+- You can `⭐️Start` this repository if you like.
